@@ -6,7 +6,7 @@ spring:
       enabled: true
 
   application:
-    name: EMAIL-SERVICE      
+    name: EMAIL-NOTIFICATION-SERVICE      
 
       
 eureka:
