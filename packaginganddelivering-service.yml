@@ -1,6 +1,5 @@
-
-server:8501
-  port: 
+server:
+  port: 8501
 spring:
   h2:
     console:
